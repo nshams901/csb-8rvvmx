@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-8rvvmx/static/css/main.afd7172b.chunk.css",
+    "main.js": "https://.github.io/csb-8rvvmx/static/js/main.b5d63381.chunk.js",
+    "main.js.map": "https://.github.io/csb-8rvvmx/static/js/main.b5d63381.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-8rvvmx/static/js/runtime-main.ca46863c.js",
+    "runtime-main.js.map": "https://.github.io/csb-8rvvmx/static/js/runtime-main.ca46863c.js.map",
+    "static/js/2.cb03c4d5.chunk.js": "https://.github.io/csb-8rvvmx/static/js/2.cb03c4d5.chunk.js",
+    "static/js/2.cb03c4d5.chunk.js.map": "https://.github.io/csb-8rvvmx/static/js/2.cb03c4d5.chunk.js.map",
+    "index.html": "https://.github.io/csb-8rvvmx/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "https://.github.io/csb-8rvvmx/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.cb03c4d5.chunk.js.LICENSE.txt": "https://.github.io/csb-8rvvmx/static/js/2.cb03c4d5.chunk.js.LICENSE.txt",
+    "static/media/card-pic1.05e673d3.jpg": "https://.github.io/csb-8rvvmx/static/media/card-pic1.05e673d3.jpg",
+    "static/media/card-pic2.b2baf05a.jpg": "https://.github.io/csb-8rvvmx/static/media/card-pic2.b2baf05a.jpg",
+    "static/media/multor-benefit1-icon.d508fa49.svg": "https://.github.io/csb-8rvvmx/static/media/multor-benefit1-icon.d508fa49.svg",
+    "static/media/person.b1c8fbd7.jpg": "https://.github.io/csb-8rvvmx/static/media/person.b1c8fbd7.jpg",
+    "static/media/pexels_videos_946147 (1080p).0e8332af.mp4": "https://.github.io/csb-8rvvmx/static/media/pexels_videos_946147 (1080p).0e8332af.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca46863c.js",
+    "static/js/2.cb03c4d5.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.b5d63381.chunk.js"
+  ]
+}
